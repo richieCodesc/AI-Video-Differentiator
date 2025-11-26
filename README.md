@@ -1,7 +1,8 @@
 # AI Video Distinguisher
 
 
-## Purpose: to distinguish synthetic videos from authentic videos by analyzing temporal inconsistencies
+## Purpose: 
+to distinguish synthetic videos from authentic videos by analyzing temporal inconsistencies
 
 Heavily references methodology used in this paper:
 [link](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_D3_Training-Free_AI-Generated_Video_Detection_Using_Second-Order_Features_ICCV_2025_paper.html)
