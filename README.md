@@ -6,6 +6,7 @@ To distinguish synthetic videos from authentic videos by analyzing temporal inco
 
 Heavily references methodology used in this paper:
 [D3: Training-Free AI-Generated Video Detection Using Second-Order Features](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_D3_Training-Free_AI-Generated_Video_Detection_Using_Second-Order_Features_ICCV_2025_paper.html)
+
 also available on arXiv: [paper](https://arxiv.org/abs/2508.00701)
 
 Although only used the simplified version of their operations, or at least an attempt.
