@@ -11,7 +11,7 @@ Although only used the simplified version of their operations, or at least an at
 
 Here I used 2 datasets, each corresponding for synthetic and authentic videos. The datasets were used to get the proper thresholds.
 - **Synthetic videos**: Personally made dataset
-- **Authentic videos**: [HMDB51 Human Model Database](https://serre.lab.brown.edu/#/resources), HMDB51: Human Model Database, swing_baseball folder 
+- **Authentic videos**: [HMDB51 Human Motion Database](https://serre.lab.brown.edu/#/resources)
 
 ## Warning
 Do not use this on long clips. Maximum recommended input clip length: **10 seconds**, pending testing.
